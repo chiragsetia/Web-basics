@@ -1,0 +1,14 @@
+heroku login -i( for interactive)
+heroku create for creating
+
+now prepare git file
+git init 
+git add .
+git commit -m 
+git remote( to get the heroku address/ git names)
+
+git push heroku master (for pushing the master branch)
+
+heroku open (for opening website)
+
+heroku logs --tail
